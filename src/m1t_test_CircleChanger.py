@@ -14,7 +14,7 @@ import m1
 
 ########################################################################
 # Set this to False if you want to see ONLY failures (if there are any).
-PRINT_SUCCESSES = False
+PRINT_SUCCESSES = True
 ########################################################################
 
 # CONSIDER: I should have NOT used these global variables,
